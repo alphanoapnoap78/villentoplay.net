@@ -1,0 +1,19 @@
+{
+    "name": "Villento Casino Canada \u2013 Legal Play & Bonus Offers | Casino",
+    "short_name": "Villento Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Villento Casino Canada \u2013 Explore legal gaming, exclusive bonuses & secure play | Villento Casino Online \u2013 Sign up today for top rewards!",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
